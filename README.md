@@ -1,4 +1,4 @@
 # SwiftUI-ProfileView-Redacted
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-20 at 20 38 49](https://github.com/pasanbope/SwiftUI-ProfileView-Redacted/assets/100598653/6c328cb9-7eb3-4a40-ae1d-8e5d1cc28773)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-20 at 20 39 44](https://github.com/pasanbope/SwiftUI-ProfileView-Redacted/assets/100598653/6199c3db-bcae-4fe9-b95a-c2b941b8602c)
+![Screenshot 2023-07-20 at 20 37 28](https://github.com/pasanbope/SwiftUI-ProfileView-Redacted/assets/100598653/93657336-67df-4b57-88e3-92a44371bdba)
+![Screenshot 2023-07-20 at 20 38 14](https://github.com/pasanbope/SwiftUI-ProfileView-Redacted/assets/100598653/0422e5d2-cbe9-4576-94db-99b543742e9f)
